@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Anjali Nair!  
 
-<!--
-**anjalinair0106-design/anjalinair0106-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year **B.Tech CSE student** at **DYPIU**  
+📍 From Pune, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+
+- 📚 Completed 10th grade at **Podar International School, Pimpri** (ICSE) – *94.5%*  
+- 📚 Completed 12th grade at **Beacon High School** (CBSE) – *86%*  
+- 💻 Currently exploring the world of **Computer Science & Engineering**  
+- 🔎 Have knowledge in  **Python**, **SQL**, and expanding my programming knowledge  
+
+---
+
+## 💻 Skills  
+
+- 🐍 Python (basic projects & problem solving)  
+- 🗄️ SQL (database queries, simple data handling)  
+
+
+---
+
+## 📌 My Goals  
+
+- Contribute to **open-source projects**  
+- Improve my **problem-solving skills** and explore **AI/ML**  
+
+---
+
+## 📫 Connect with Me  
+
+- 📧 Email: *[anjalinair0106@gmail.com]*    
+- 🐙 GitHub: [github.com/anjalinair0106-design](https://github.com/)  
+
+
+
+
+---
+
+⭐️ *Thanks for visiting my profile!*  
