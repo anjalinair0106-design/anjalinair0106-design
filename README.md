@@ -114,8 +114,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/anjalinair0106-design/anjalinair0106-design/blob/output/github-contribution-grid-snake-dark.svg)
-
+![Snake animation](https://github.com/anjalinair0106-design/anjalinair0106-design/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
 </div>
 
 ---
